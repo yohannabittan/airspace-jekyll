@@ -189,7 +189,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	call-to-action Start
 --*/
 #call-to-action {
-  background: url("../img/cyborg-sprint.jpg") no-repeat;
+  background: url("../img/man-and-machine.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   padding: 70px 0px;
@@ -231,7 +231,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/call-agents-in-a-line.jpg");
+  background: url("../img/agent-and-supervisor.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
